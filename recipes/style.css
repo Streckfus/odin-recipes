@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    font-family: cursive;
+    border-bottom: 3px solid black;
+    font-weight: bolder;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
